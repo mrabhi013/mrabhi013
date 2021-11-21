@@ -32,8 +32,7 @@
 <br/>
 
 <a href="https://github.com/mrabhi013">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrabhi013&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrabhi013&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrabhi013&theme=buefy&show_icons=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrabhi013&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -41,7 +40,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishek%20Vikram%20Sawle-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/abhishek-sawle-70b25a215/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishek%20Sawle-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mr.abhi.013/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr.abhi.013-blue?style=flat-square&logo=instagram"></a>
 <a href="abhisheksawle009@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abhisheksawle009@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
